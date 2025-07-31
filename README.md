@@ -7,7 +7,7 @@ RapidProbe is an intelligent, full-stack web platform for automating and optimiz
 - Parallel execution via Celery
 - Real-time monitoring with WebSockets
 - Yield analytics and failure maps
-- Role-based access control (Admin, Engineer, Viewer)
+- Role-based access control (Admin, Engineer, Viewer) 
 - Containerized with Docker & Docker Compose
 
 ## Setup
